@@ -15,7 +15,7 @@ public class DBConnector {
 	//データベース接続ユーザー名
 	private static String user = "root";
 
-	//データベース接続パスワード
+	//データベース接続パスワード!
 	private static String password = "mysql";
 
 	public Connection getConnection() {
